@@ -1,5 +1,6 @@
 {
   "name": "railsguide",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "author": "bacdo"
 }
